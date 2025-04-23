@@ -1,0 +1,34 @@
+_repo: Daddy-Long-Legs-b-A-comedy-in-four-acts_75857
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Webster, Jean
+    aliases:
+    - McKinney, Jean Webster
+    - Webster, Alice Jean Chandler
+    birthdate: 1876
+    deathdate: 1916
+    gutenberg_agent_id: '99'
+    url: http://www.gutenberg.org/2009/agents/99
+    wikipedia: https://en.wikipedia.org/wiki/Jean_Webster
+description: ''
+gutenberg_issued: '2025-04-14'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '75857'
+language: en
+pgterms:marc904: https://archive.org/details/cu31924021717933/page/n4/mode/1up
+pgterms:marc905: 20240902064401webster
+pgterms:marc906: '1914'
+pgterms:marc907: US
+production_note: Susan E., Chris Hapka and the Online Distributed Proofreading Team
+  at https://www.pgdp.net (This file was produced from images generously made available
+  by The Internet Archive)
+publication_note: '  $aNew York :$bSamuel French, $c1914, copyright 1922.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: 'Daddy Long-Legs : $b A comedy in four acts'
+url: http://www.gutenberg.org/ebooks/75857
